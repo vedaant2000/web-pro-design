@@ -7,3 +7,5 @@ All this templates will be used to train the machine learning model as a dataset
  - gui >> all the gui files with proper name
  - image >> all the image files with proper name
  - html_code >> all the template codes with proper name
+
+This Repository is solely for setting up the DATASET. Main Repository will be hosted soon.
